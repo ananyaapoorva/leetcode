@@ -4,12 +4,16 @@ public:
         if(s.length()!=t.length())
             return false;
 
-        unordered_map<char,int>countS, countT;
+        vector<int>count(26,0);
         for(int i=0;i<s.length();i++){
-            countS[s[i]]++;
-            countT[t[i]]++;
+            count[s[i]-'a']++;
+            count[t[i]-'a']--;
         }
-        
-        return (countS==countT);
+        for(int i:count){
+            if(i!=0){
+                return false;
+            }
+        }
+        return true;
     }
 };
