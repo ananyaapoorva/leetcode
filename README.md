@@ -7,18 +7,21 @@ A collection of LeetCode questions that I solved on my own
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyaapoorva/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ananyaapoorva/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ananyaapoorva/leetcode/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyaapoorva/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyaapoorva/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ananyaapoorva/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ananyaapoorva/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyaapoorva/leetcode/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyaapoorva/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ananyaapoorva/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ananyaapoorva/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyaapoorva/leetcode/tree/master/0242-valid-anagram) |
 ## Math
@@ -32,5 +35,6 @@ A collection of LeetCode questions that I solved on my own
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ananyaapoorva/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ananyaapoorva/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
