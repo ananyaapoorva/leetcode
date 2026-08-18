@@ -30,7 +30,7 @@ public:
         //sub box
         for(int rowshift=0;rowshift<=6;rowshift+=3){
             for(int colshift=0;colshift<=6;colshift+=3){
-                unordered_map<int,int>sub;
+                unordered_map<char,int>sub;
                 for(int i=rowshift;i<rowshift+3;i++){
                     for(int j=colshift;j<colshift+3;j++){
                             sub[board[i][j]]++;
