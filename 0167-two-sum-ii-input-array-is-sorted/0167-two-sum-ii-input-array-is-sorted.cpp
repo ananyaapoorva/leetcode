@@ -5,9 +5,9 @@ public:
         while(i<j){
             if(target==numbers[i]+numbers[j])
                 break;
-            if(target<numbers[i]+numbers[j])
+            else if(target<numbers[i]+numbers[j])
                 j--;
-            if(target>numbers[i]+numbers[j])
+            else if(target>numbers[i]+numbers[j])
                 i++;
         }
         return{i+1,j+1};
