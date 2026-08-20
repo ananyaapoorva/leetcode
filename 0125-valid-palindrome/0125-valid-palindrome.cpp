@@ -1,12 +1,6 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        // string s1="";
-        // for(auto& c:s){
-        //     if(isalnum(c))
-        //         s1+=tolower(c);
-        // }
-
         int i=0,j=s.size()-1;
         while(i<=j){
             if(!isalnum(s[i])){
