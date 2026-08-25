@@ -8,7 +8,7 @@ public:
             int capacity=(j-i)*ht;
             maxWater=max(capacity,maxWater);
 
-            if(height[i]<height[j]){
+            if(height[i]<=height[j]){
                 i++;
             }
             else{
