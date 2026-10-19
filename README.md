@@ -18,6 +18,7 @@ A collection of LeetCode questions that I solved on my own
 | [0217-contains-duplicate](https://github.com/ananyaapoorva/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ananyaapoorva/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ananyaapoorva/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1929-concatenation-of-array](https://github.com/ananyaapoorva/leetcode/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyaapoorva/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -209,4 +210,8 @@ A collection of LeetCode questions that I solved on my own
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ananyaapoorva/leetcode/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ananyaapoorva/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
