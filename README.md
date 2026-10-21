@@ -21,6 +21,7 @@ A collection of LeetCode questions that I solved on my own
 | [0347-top-k-frequent-elements](https://github.com/ananyaapoorva/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ananyaapoorva/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/ananyaapoorva/leetcode/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/ananyaapoorva/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ananyaapoorva/leetcode/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyaapoorva/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions that I solved on my own
 | [0042-trapping-rain-water](https://github.com/ananyaapoorva/leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananyaapoorva/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ananyaapoorva/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ananyaapoorva/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananyaapoorva/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ananyaapoorva/leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
