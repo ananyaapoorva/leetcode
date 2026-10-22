@@ -19,6 +19,7 @@ A collection of LeetCode questions that I solved on my own
 | [0217-contains-duplicate](https://github.com/ananyaapoorva/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ananyaapoorva/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ananyaapoorva/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyaapoorva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ananyaapoorva/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/ananyaapoorva/leetcode/tree/master/0739-daily-temperatures) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions that I solved on my own
 | [0242-valid-anagram](https://github.com/ananyaapoorva/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ananyaapoorva/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ananyaapoorva/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyaapoorva/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ananyaapoorva/leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyaapoorva/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
