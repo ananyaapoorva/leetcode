@@ -22,6 +22,7 @@ A collection of LeetCode questions that I solved on my own
 | [0485-max-consecutive-ones](https://github.com/ananyaapoorva/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/ananyaapoorva/leetcode/tree/master/0739-daily-temperatures) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyaapoorva/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ananyaapoorva/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ananyaapoorva/leetcode/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyaapoorva/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions that I solved on my own
 | [0424-longest-repeating-character-replacement](https://github.com/ananyaapoorva/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ananyaapoorva/leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyaapoorva/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyaapoorva/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions that I solved on my own
 | [0242-valid-anagram](https://github.com/ananyaapoorva/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ananyaapoorva/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyaapoorva/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -229,4 +232,8 @@ A collection of LeetCode questions that I solved on my own
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ananyaapoorva/leetcode/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ananyaapoorva/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
